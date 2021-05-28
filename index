@@ -1,0 +1,27 @@
+Ahro corasick algorythm
+
+string hashing
+
+1. DFS
+2. BFS
+3. Matching Parenthesis problem
+4. Using Hash Tables
+5. Variables/Pointers manipulation
+6. reverse linked list (duplicates , removing duplicates)
+7. sorting fundamentals (quicksort, mergesort,bubblesort techniques ,
+   runtime of a sort,time space complexity)
+8. Recursion
+9. custom data structures (object oriented programming)
+10.Binary search
+
+
+Depth First Search
+2. Breadth-First Search
+3. Matching Parenthesis    // Stacks/ QUEUE?
+4.Making use of Hash Tables
+5. Knowing how to manipulate multiple variables/Pointers at once
+6. Reversing a linked list
+7.Sorting fundamentals  (time complexity, functioning, etc.)
+8. Recursion
+9. Custom Data structure (ex. suffix tree )
+10.Binary Search
